@@ -42,10 +42,102 @@
 	<!-- Theme style  -->
 	<link rel="stylesheet" href="css/main-red.css">
 
+	<style>
+		.css-logo.rounded {
+			border-radius: 50%;
+		}
+		.css-logo {
+			width: 100%;
+			height: 100%;
+			border-radius: 0%;
+			background-color: #f0394d;
+			color: #FFF;
+			text-align: center;
+			font-family: 'Arvo', serif;
+		}
+		.css-logo-text {
+			padding-top: 19px;
+			font-size: 15px;
+		}
+		/*loader*/
+		#preloader {
+			background-color: #f6f6f6;
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			z-index: 9999;
+		}
+		.alignment {
+			position: absolute;
+			display: table;
+			height: 100%;
+			width: 100%;
+		}
+		.center-middle {
+			vertical-align: middle;
+			text-align: center;
+		}
+
+		.v-align {
+			display: table-cell;
+		}
+		.heart-animation {
+			display: inline-block;
+			margin: 0 auto;
+			font-size: 20px;
+			line-height: 20px;
+			letter-spacing: -20px;
+			-webkit-animation: heart-zoom infinite 1.2s;
+			-moz-animation: heart-zoom infinite 1.2s;
+			-ms-animation: heart-zoom infinite 1.2s;
+			-o-animation: heart-zoom infinite 1.2s;
+			animation: heart-zoom infinite 1.2s;
+		}
+		.heart-animation i {
+			color: #f0394d;
+		}
+		.heart-animation-reverse {
+			display: inline-block;
+			margin: 0 auto;
+			padding-right: 20px;
+			font-size: 20px;
+			line-height: 20px;
+			-webkit-animation: heart-zoom-reverse infinite 1.2s;
+			-moz-animation: heart-zoom-reverse infinite 1.2s;
+			-ms-animation: heart-zoom-reverse infinite 1.2s;
+			-o-animation: heart-zoom-reverse infinite 1.2s;
+			animation: heart-zoom-reverse infinite 1.2s;
+		}
+		.heart-animation-reverse i {
+			color: #999;
+		}
+	</style>
+
 	</head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
-	<div class="loader"></div>
+	<!--<div class="loader"></div>-->
+	<div id="preloader" class="loader" style="/* display: none; */">
+
+		<div class="alignment">
+			<div class="v-align center-middle">
+
+				<!-- LEFT HEART -->
+				<div class="heart-animation">
+					<i class="fas fa-heart"></i>
+				</div>
+
+				<!-- RIGHT HEART -->
+				<div class="heart-animation-reverse">
+					<i class="fas fa-heart"></i>
+				</div>
+
+			</div>
+		</div>
+
+	</div>
 	<div class="main">
 		<!-- Navigation -->
 		<nav class="navbar" data-spy="affix" data-options="scrolltop:false">
@@ -53,6 +145,13 @@
 				<div class="row">
 					<div class="col-xs-2">
 						<div id="logo"><a href="index.html">Belle</a></div>
+						<!--<div id="logo">-->
+							<!--<div class="css-logo rounded">-->
+								<!--<div class="css-logo-text">-->
+									<!--<strong>B</strong><i class="de-icon-heart-1"></i><strong>T</strong>-->
+								<!--</div>-->
+							<!--</div>-->
+						<!--</div>-->
 					</div>
 					<div class="col-xs-10 menu-2">
 						<ul class="nav navbar-nav navbar-right">
@@ -89,7 +188,8 @@
 			</div>
 		</nav>
 		<!-- Header -->
-		<section id="header" class="cover" data-parallax="scroll" data-image-src="img/my/1.jpg">
+		<section id="header" class="cover" data-parallax="scroll" data-image-src="img/my/t.jpg">
+		<!--<section id="header" class="cover" data-parallax="scroll" data-image-src="img/header-bg.jpg">-->
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -120,7 +220,7 @@
 				<div class="row couple-wrap">
 					<div class="groom-wrap col-md-6 clearfix">
 						<div class="groom">
-							<img src="img/groom.jpg" alt="groom" class="img-responsive">
+							<img src="img/my/left.png" alt="groom" class="img-responsive">
 						</div>
 						<div class="desc-groom">
 							<h3>Bình</h3>
@@ -130,7 +230,7 @@
 					<p class="heart text-center"><i class="icon-heart2"></i></p>
 					<div class="bride-wrap col-md-6">
 						<div class="bride">
-							<img src="img/bride.jpg" alt="groom" class="img-responsive">
+							<img src="img/my/right.png" alt="groom" class="img-responsive">
 						</div>
 						<div class="desc-bride">
 							<h3>Tâm</h3>
@@ -146,11 +246,13 @@
 			<div class="container">
 				<div class="row">
 					<div class="heading col-sm-12">
+					</div>
+					<div class="heading col-sm-12">
 						<h2>The big day<br>
-							28.November.2019
+							1.December.2019
 						</h2>
-						<p>We are so excited to celebrate our special day with our family and friends.
-						Thank you so much for visiting our wedding website!</p>
+						<p>We are so excited to celebrate our special day with our family and friends.<p>
+						<p>Thank you so much for visiting our wedding website!</p>
 					</div>
 					<div class="col-sm-12">
 						<div id="timer" class="timer text-center">
@@ -214,21 +316,21 @@
 									<img src="img/event2.jpg" alt="">
 								</div>
 							</div>
-							<div class="panel panel-default">
-								<div id="collapse30" class="panel-collapse collapse">
-									<img src="img/event3.jpg" alt="">
-								</div>
-							</div>
-							<div class="panel panel-default">
-								<div id="collapse40" class="panel-collapse collapse">
-									<img src="img/event4.jpg" alt="">
-								</div>
-							</div>
-							<div class="panel panel-default">
-								<div id="collapse50" class="panel-collapse collapse">
-									<img src="img/event5.jpg" alt="">
-								</div>
-							</div>
+							<!--<div class="panel panel-default">-->
+								<!--<div id="collapse30" class="panel-collapse collapse">-->
+									<!--<img src="img/event3.jpg" alt="">-->
+								<!--</div>-->
+							<!--</div>-->
+							<!--<div class="panel panel-default">-->
+								<!--<div id="collapse40" class="panel-collapse collapse">-->
+									<!--<img src="img/event4.jpg" alt="">-->
+								<!--</div>-->
+							<!--</div>-->
+							<!--<div class="panel panel-default">-->
+								<!--<div id="collapse50" class="panel-collapse collapse">-->
+									<!--<img src="img/event5.jpg" alt="">-->
+								<!--</div>-->
+							<!--</div>-->
 						</div>
 					</div>
 					<div class="col-sm-6">
@@ -271,60 +373,60 @@
 									commodo consequat.</div>
 								</div>
 							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-									<a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-									7:00pm Call to dinner</a>
-									</h4>
-								</div>
-								<div id="collapse3" class="panel-collapse collapse">
-									<div class="panel-place">
-										<i class="fa fa-map-marker" aria-hidden="true"></i>
-										<span>5th Ave, NY</span>
-									</div>
-									<div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-									sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-									minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-									commodo consequat.</div>
-								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-									<a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-									8:45pm Cake cutting</a>
-									</h4>
-								</div>
-								<div id="collapse4" class="panel-collapse collapse">
-									<div class="panel-place">
-										<i class="fa fa-map-marker" aria-hidden="true"></i>
-										<span>5th Ave, NY</span>
-									</div>
-									<div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-									sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-									minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-									commodo consequat.</div>
-								</div>
-							</div>
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h4 class="panel-title">
-									<a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
-									9:00pm Party dance</a>
-									</h4>
-								</div>
-								<div id="collapse5" class="panel-collapse collapse">
-									<div class="panel-place">
-										<i class="fa fa-map-marker" aria-hidden="true"></i>
-										<span>5th Ave, NY</span>
-									</div>
-									<div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-									sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-									minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-									commodo consequat.</div>
-								</div>
-							</div>
+							<!--<div class="panel panel-default">-->
+								<!--<div class="panel-heading">-->
+									<!--<h4 class="panel-title">-->
+									<!--<a data-toggle="collapse" data-parent="#accordion" href="#collapse3">-->
+									<!--7:00pm Call to dinner</a>-->
+									<!--</h4>-->
+								<!--</div>-->
+								<!--<div id="collapse3" class="panel-collapse collapse">-->
+									<!--<div class="panel-place">-->
+										<!--<i class="fa fa-map-marker" aria-hidden="true"></i>-->
+										<!--<span>5th Ave, NY</span>-->
+									<!--</div>-->
+									<!--<div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,-->
+									<!--sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad-->
+									<!--minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea-->
+									<!--commodo consequat.</div>-->
+								<!--</div>-->
+							<!--</div>-->
+							<!--<div class="panel panel-default">-->
+								<!--<div class="panel-heading">-->
+									<!--<h4 class="panel-title">-->
+									<!--<a data-toggle="collapse" data-parent="#accordion" href="#collapse4">-->
+									<!--8:45pm Cake cutting</a>-->
+									<!--</h4>-->
+								<!--</div>-->
+								<!--<div id="collapse4" class="panel-collapse collapse">-->
+									<!--<div class="panel-place">-->
+										<!--<i class="fa fa-map-marker" aria-hidden="true"></i>-->
+										<!--<span>5th Ave, NY</span>-->
+									<!--</div>-->
+									<!--<div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,-->
+									<!--sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad-->
+									<!--minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea-->
+									<!--commodo consequat.</div>-->
+								<!--</div>-->
+							<!--</div>-->
+							<!--<div class="panel panel-default">-->
+								<!--<div class="panel-heading">-->
+									<!--<h4 class="panel-title">-->
+									<!--<a data-toggle="collapse" data-parent="#accordion" href="#collapse5">-->
+									<!--9:00pm Party dance</a>-->
+									<!--</h4>-->
+								<!--</div>-->
+								<!--<div id="collapse5" class="panel-collapse collapse">-->
+									<!--<div class="panel-place">-->
+										<!--<i class="fa fa-map-marker" aria-hidden="true"></i>-->
+										<!--<span>5th Ave, NY</span>-->
+									<!--</div>-->
+									<!--<div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,-->
+									<!--sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad-->
+									<!--minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea-->
+									<!--commodo consequat.</div>-->
+								<!--</div>-->
+							<!--</div>-->
 						</div>
 					</div>
 				</div>
