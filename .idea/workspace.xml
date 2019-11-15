@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5601c0e-a2ae-49b0-a5e0-e36ec26ff1f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/my/bg_1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/my/bg_2_main.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main-red.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main-red.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main-red.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="1645" column="1" selection-start-line="1645" selection-start-column="1" selection-end-line="1645" selection-end-column="1" />
+            <state relative-caret-position="353">
+              <caret line="1644" column="49" selection-start-line="1644" selection-start-column="49" selection-end-line="1644" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -67,8 +67,8 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/css/main-red.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main-red.css" />
       </list>
     </option>
   </component>
@@ -163,7 +163,7 @@
       <updated>1569212547893</updated>
       <workItem from="1569212549320" duration="5505000" />
       <workItem from="1569313932948" duration="505000" />
-      <workItem from="1573830560467" duration="5994000" />
+      <workItem from="1573830560467" duration="6323000" />
     </task>
     <task id="LOCAL-00001" summary="loveyou">
       <created>1569214490307</created>
@@ -186,14 +186,22 @@
       <option name="project" value="LOCAL" />
       <updated>1573836857701</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="loveyou">
+      <created>1573838375453</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573838375453</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12004000" />
+    <option name="totallyTimeSpent" value="12333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25538972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -207,7 +215,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32939914" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3304721" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -250,13 +258,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main-red.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="1645" column="1" selection-start-line="1645" selection-start-column="1" selection-end-line="1645" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -274,6 +275,13 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main-red.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="1644" column="49" selection-start-line="1644" selection-start-column="49" selection-end-line="1644" selection-end-column="49" />
         </state>
       </provider>
     </entry>
