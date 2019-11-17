@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5601c0e-a2ae-49b0-a5e0-e36ec26ff1f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/my/b-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/my/bride.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/my/g-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/my/groom.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -16,10 +20,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="441" column="45" selection-start-line="441" selection-start-column="45" selection-end-line="441" selection-end-column="45" />
+            <state relative-caret-position="5299">
+              <caret line="344" column="53" lean-forward="true" selection-start-line="344" selection-start-column="53" selection-end-line="344" selection-end-column="53" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,6 +64,9 @@
       <find>bg</find>
       <find>first</find>
       <find>first we</find>
+      <find>g.jpg</find>
+      <find>wedding eve</find>
+      <find>bride's</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -164,7 +173,7 @@
       <updated>1569212547893</updated>
       <workItem from="1569212549320" duration="5505000" />
       <workItem from="1569313932948" duration="505000" />
-      <workItem from="1573830560467" duration="8082000" />
+      <workItem from="1573830560467" duration="13199000" />
     </task>
     <task id="LOCAL-00001" summary="loveyou">
       <created>1569214490307</created>
@@ -208,15 +217,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573840337510</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="loveyou">
+      <created>1573840446773</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573840446773</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14092000" />
+    <option name="totallyTimeSpent" value="19209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25538972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -290,12 +305,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/my/bride.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="441" column="45" selection-start-line="441" selection-start-column="45" selection-end-line="441" selection-end-column="45" />
+        <state relative-caret-position="5299">
+          <caret line="344" column="53" lean-forward="true" selection-start-line="344" selection-start-column="53" selection-end-line="344" selection-end-column="53" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
