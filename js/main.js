@@ -398,7 +398,7 @@
 	$(function(){
 		pageScroll();
 		mobileMenuOutsideClick();
-		offcanvasMenu();
+		// offcanvasMenu();
 		burgerMenu();
 		contentWayPoint();
 		dropdown();
