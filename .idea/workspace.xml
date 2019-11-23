@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5601c0e-a2ae-49b0-a5e0-e36ec26ff1f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/my/banner-bottom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/thumb/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/thumb/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/thumb/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/thumb/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/thumb/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/thumb/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/thumb/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/thumb/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/thumb/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/thumb/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/my/gallery/thumb/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/my/hyper.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/my/hyper2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/my/hyper3.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main-red.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main-red.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +19,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="598" column="58" selection-start-line="598" selection-start-column="58" selection-end-line="598" selection-end-column="58" />
-              <caret line="599" column="69" selection-start-line="599" selection-start-column="69" selection-end-line="599" selection-end-column="69" />
+            <state relative-caret-position="353">
+              <caret line="203" column="94" lean-forward="true" selection-start-line="203" selection-start-column="94" selection-end-line="203" selection-end-column="94" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -87,13 +68,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>bg</find>
-      <find>first</find>
-      <find>first we</find>
-      <find>g.jpg</find>
-      <find>wedding eve</find>
-      <find>bride's</find>
-      <find>our stor</find>
       <find>guest</find>
       <find>all</find>
       <find>moment</find>
@@ -117,6 +91,13 @@
       <find>roadtrip</find>
       <find>view al</find>
       <find>video bg</find>
+      <find>view all</find>
+      <find>albom</find>
+      <find>albums</find>
+      <find>&lt;i</find>
+      <find>inv</find>
+      <find>form-w</find>
+      <find>vinhx</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -184,21 +165,6 @@
             <path>
               <item name="wedding" type="b2602c69:ProjectViewProjectNode" />
               <item name="wedding" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="my" type="462c0819:PsiDirectoryNode" />
-              <item name="gallery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wedding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wedding" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="my" type="462c0819:PsiDirectoryNode" />
-              <item name="gallery" type="462c0819:PsiDirectoryNode" />
-              <item name="thumb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wedding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wedding" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -217,9 +183,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/my/gallery" />
-      <recent name="$PROJECT_DIR$/img/my/gallery/thumb" />
       <recent name="$PROJECT_DIR$/img/my" />
+      <recent name="$PROJECT_DIR$/img/my/gallery/thumb" />
+      <recent name="$PROJECT_DIR$/img/my/gallery" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/css/images" />
     </key>
@@ -252,7 +218,7 @@
       <workItem from="1569212549320" duration="5505000" />
       <workItem from="1569313932948" duration="505000" />
       <workItem from="1573830560467" duration="13807000" />
-      <workItem from="1574438073692" duration="6939000" />
+      <workItem from="1574438073692" duration="9027000" />
     </task>
     <task id="LOCAL-00001" summary="loveyou">
       <created>1569214490307</created>
@@ -331,11 +297,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574439870999</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="loveyou">
+      <created>1574519511418</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574519511418</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26756000" />
+    <option name="totallyTimeSpent" value="28844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -426,16 +399,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/my/bg_1_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="598" column="58" selection-start-line="598" selection-start-column="58" selection-end-line="598" selection-end-column="58" />
-          <caret line="599" column="69" selection-start-line="599" selection-start-column="69" selection-end-line="599" selection-end-column="69" />
+        <state relative-caret-position="353">
+          <caret line="203" column="94" lean-forward="true" selection-start-line="203" selection-start-column="94" selection-end-line="203" selection-end-column="94" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
