@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+            <state relative-caret-position="252">
+              <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -65,7 +65,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>just some</find>
       <find>countdown</find>
       <find>digit</find>
       <find>countdo</find>
@@ -95,6 +94,7 @@
       <find>wedding</find>
       <find>wedding</find>
       <find>Wedding - Responsive HTML5 Template</find>
+      <find>two les</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -217,7 +217,7 @@
       <workItem from="1573830560467" duration="13807000" />
       <workItem from="1574438073692" duration="9694000" />
       <workItem from="1574782906488" duration="532000" />
-      <workItem from="1574864442364" duration="1209000" />
+      <workItem from="1574864442364" duration="1441000" />
     </task>
     <task id="LOCAL-00001" summary="loveyou">
       <created>1569214490307</created>
@@ -331,11 +331,25 @@
       <option name="project" value="LOCAL" />
       <updated>1574870920001</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="loveyou">
+      <created>1574870991678</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1574870991678</updated>
+    </task>
+    <task id="LOCAL-00018" summary="loveyou">
+      <created>1574871120815</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1574871120815</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31252000" />
+    <option name="totallyTimeSpent" value="31484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -408,8 +422,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        <state relative-caret-position="252">
+          <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
