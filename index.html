@@ -72,6 +72,19 @@
 			bottom: 0;
 			z-index: 9999;
 		}
+		#preloader:after {
+			content: '';
+			position: fixed;
+			width: 48px;
+			height: 48px;
+			border: solid 8px #f44336;
+			background-image: image('./img/my/logo.png');
+			border-left-color: transparent;
+			border-radius: 50%;
+			top: calc(50% - 24px);
+			left: calc(50% - 24px);
+			animation: rotate 1s linear infinite;
+		}
 		.alignment {
 			position: absolute;
 			display: table;
