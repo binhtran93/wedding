@@ -38,7 +38,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
 		$headers .= "Reply-To: $email" . PHP_EOL;
 		$headers .= "X-Mailer: PHP/". phpversion() . PHP_EOL;
 		$headers .= "X-Originating-IP: " . $_SERVER['SERVER_ADDR'] . PHP_EOL;
-		mail($emailTo, "=?utf-8?B?" . base64_encode($numberPrefix) . "?=", $body, $headers);
+//		mail($emailTo, "=?utf-8?B?" . base64_encode($numberPrefix) . "?=", $body, $headers);
 		$data['success'] = true;
 		$data['message'] = '';
 	}
