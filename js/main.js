@@ -220,11 +220,11 @@
 			var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
 			var days = Math.floor(t / (1000 * 60 * 60 * 24));
 			return {
-				'total': t,
-				'days': days,
-				'hours': hours,
-				'minutes': minutes,
-				'seconds': seconds
+				'total': t || 0,
+				'days': days || 0,
+				'hours': hours || 0,
+				'minutes': minutes || 0,
+				'seconds': seconds || 0
 			};
 		}
 
