@@ -405,7 +405,7 @@
 		testimonialCarousel();
 		counter();
 		counterWayPoint();
-		countdown();
+		// countdown();
 		filledLabels();
 		addGuest();
 		collapseEvents();
